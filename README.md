@@ -1,7 +1,7 @@
 # ESTAFA DEL BIZUM
 
 # Presentación
-Hola, me llamo Christian y voy a explicar la estafa que han utilizado muchos en bizum para estafar a la gente.![2023120131730_1-4144096657](https://github.com/user-attachments/assets/a68ca21f-6d94-4c36-b174-328b94da043e)
+Hola, me llamo Christian y voy a explicar la estafa que han utilizado muchos en bizum para estafar a la gente.
 
 
 # ¿En qué consiste?
