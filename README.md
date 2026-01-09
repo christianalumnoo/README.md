@@ -1,6 +1,6 @@
 # ESTAFA DEL BIZUM
 
-# presentación
+# Presentación
 Hola, me llamo Christian y voy a explicar la estafa que han utilizado muchos en bizum parta estafar a la gente.
 
 # ¿En qué consiste?
