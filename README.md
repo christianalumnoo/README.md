@@ -13,3 +13,12 @@ Para explicar mejor en qué consiste esta estafa, es como si alguien te ingresa 
 
 .![2023120131730_1-4144096657](https://github.com/user-attachments/assets/42fb4669-4959-46c2-b9c1-14ec719e53de)
 
+
+
+
+
+
+
+https://www.deia.eus/economia-domestica/2026/01/09/cuidado-timo-bizum-error-vacia-cuenta-10557179.html
+https://www.elperiodicodearagon.com/sucesos/sucesos-aragon/2026/01/08/bizum-inverso-nueva-modalidad-estafa-125479991.html
+https://www.cartv.es/aragonnoticias/noticias/asi-funciona-la-estafa-del-bizum-inverso-como-prevenirla-y-que-hacer-si-eres-una-victima-policia-nacional-36552
