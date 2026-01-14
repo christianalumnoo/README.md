@@ -2,9 +2,12 @@
 
 # ¿Qué es Snapchat?
 
-Snapchat generalmente, es una **aplicación** o más bien una **red social**. Snapchat al igual que casi todas las aplicaciones tiene una serie de suscripciones para un **plan mejor** que desde mi punto de vista lo veo innecesario pudiendo tener la versión normal.  ![OIP-879872377](https://github.com/user-attachments/assets/015f90d8-ad6b-4e1d-ba13-99a2da25a281)
+Snapchat generalmente, es una **aplicación** o más bien una **red social**. Snapchat al igual que casi todas las aplicaciones tiene una serie de suscripciones para un **plan mejor** que desde mi punto de vista lo veo innecesario pudiendo tener la versión normal.
 
 En esta appp te pùede entrar gente desconocida tambien o enviar una **solicitud de amistad**. De aquí es donde salen estos estafadores.
+
+<img width="500" height="650" alt="ChatGPT Image 14 ene 2026, 11_52_50" src="https://github.com/user-attachments/assets/abd1222d-01e7-44b2-8e9c-fbcdc3284458" />
+
 
 
 # ¿En qué consiste esta estafa?
