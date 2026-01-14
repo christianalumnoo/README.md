@@ -15,5 +15,10 @@ Los estafadores lo que hacen es **crearse cuentas falsas** y luego proceden a ha
 
 # ¿Qué es lo que procede a pasar?
 
-Después de haber clicado estos enlaces o códigos QR, los estafadores **consiguen información personal o incluso el número de tarjeta** de los usuarios para **robarles dinero**.
+Después de haber clicado estos enlaces o códigos QR, los estafadores **consiguen información personal o incluso el número de tarjeta** de los usuarios para **robarles dinero**. Después de esto, el usuario tendria que denunciar al estafador y tambie sería una dificil operación, ya que, en estos casos no es tan fácil recuperar lo perdido.
+
+
+# ¿Cómo evitar esta estafa?
+
+Para evitar esta estafa, en primero lugar deberíamos tener cuidado con abrir links o enlaces, ya que, en ocasiones puede ser una estafa. También en ocasiones, como consecuencia de tener la ubicación activada en Snapchat, los estafadores pueden localizar dónde te sitúas. esto también puede ser un grave problema, porque seguramente el estafador intentaría estafarte en persona.  
 
