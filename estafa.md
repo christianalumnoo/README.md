@@ -20,5 +20,7 @@ Después de haber clicado estos enlaces o códigos QR, los estafadores **consigu
 
 # ¿Cómo evitar esta estafa?
 
-Para evitar esta estafa, en primero lugar deberíamos tener cuidado con abrir links o enlaces, ya que, en ocasiones puede ser una estafa. También en ocasiones, como consecuencia de tener la ubicación activada en Snapchat, los estafadores pueden localizar dónde te sitúas. esto también puede ser un grave problema, porque seguramente el estafador intentaría estafarte en persona.  
+Para evitar esta estafa, en primero lugar deberíamos tener **cuidado** con abrir links o enlaces, ya que, en ocasiones puede ser una estafa. También en ocasiones, como consecuencia de tener la ubicación activada en Snapchat, los estafadores pueden **localizar** dónde te sitúas. esto también puede ser un **grave problema**, porque seguramente el estafador intentaría estafarte en persona.  
+
+En segundo lugar, no deberíamos aceptar solicitudes anónimas o desconocidas (nos pueden traer problemas).
 
