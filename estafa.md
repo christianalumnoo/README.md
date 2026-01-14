@@ -11,7 +11,7 @@ En esta appp te pùede entrar gente desconocida tambien o enviar una **solicitud
 
 Los estafadores lo que hacen es **crearse cuentas falsas** y luego proceden a hablarle a gente desconocida. Esta gente (sobre todo los adolescentes) piensan que son gente normal que quiere una amistad, pero no es así. Estos estafadores lo que hacen es decirles o hacerles creer que participen en un sorteo o lotería, y luego, proceden a envíarles un **código QR o enlace**. Los adolescentes sobre todo caen en esta trampa y pinchan en estos enlaces o códigos QR. 
 
-<img width="600" height="650" alt="ChatGPT Image 14 ene 2026, 11_21_28" src="https://github.com/user-attachments/assets/19dbd8e4-b3db-4825-bccc-787410ccb316" />
+<img width="500" height="650" alt="ChatGPT Image 14 ene 2026, 11_21_28" src="https://github.com/user-attachments/assets/19dbd8e4-b3db-4825-bccc-787410ccb316" />
 
 # ¿Qué es lo que procede a pasar?
 
