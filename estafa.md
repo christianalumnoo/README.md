@@ -27,3 +27,8 @@ Para evitar esta estafa, en primero lugar deberíamos tener **cuidado** con abri
 
 En segundo lugar, no deberíamos aceptar solicitudes anónimas o desconocidas (nos pueden traer problemas).
 
+
+# Noticias sobre la estafa
+
+[¿Por qué los estafadores utilizan Snapchat?](https://umobix.com/blog/es/snapchat-scams/)
+
