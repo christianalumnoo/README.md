@@ -34,3 +34,5 @@ Para evitar esta estafa, **en primer lugar** deberíamos tener **cuidado** con a
 [¿Por qué los estafadores utilizan Snapchat?](https://umobix.com/blog/es/snapchat-scams/)
 
 [12 estafas comunes de Snapchat que debes evitar](https://parental-control.flashget.com/es/common-snapchat-scams#12-common-snapchat-scams-you-should-avoid)
+
+[Estafas de phishing en Snapchat](https://es.cybertrace.com.au/snapchat-phishing-scams/)
