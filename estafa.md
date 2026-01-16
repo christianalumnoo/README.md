@@ -15,7 +15,7 @@ Los estafadores lo que hacen es **crearse cuentas falsas** y luego proceden a ha
 
 <img width="300" height="400" alt="ChatGPT Image 14 ene 2026, 11_21_28" src="https://github.com/user-attachments/assets/19dbd8e4-b3db-4825-bccc-787410ccb316" />
 
-# ¿Qué es lo que procede a pasar?
+# ¿Qué es lo que puede pasar?
 
 Después de haber clicado estos enlaces o códigos QR, los estafadores **consiguen información personal o incluso el número de tarjeta** de los usuarios para **robarles dinero**. Después de esto, el usuario tendria que denunciar al estafador y tambie sería una dificil operación, ya que, en estos casos no es tan fácil recuperar lo perdido.
 
@@ -28,6 +28,11 @@ Para evitar esta estafa, **en primer lugar** deberíamos tener **cuidado** con a
 
 
 **En segundo lugar**, no deberíamos aceptar solicitudes anónimas o desconocidas (nos pueden traer problemas). Esos problemmas opueden ser por ejemplo, que te envien un codigo QR para que intenten hacerte pensar que es un sorteo. Otra puede ser que se hagan pasar por un **"sugar daddy"**. Un sugar daddy es una persona que se hace pasar por una persona romántica que solo quiere contacto físico o verte o cosas aí sin conocerte. Entonces igual cuando ya hayas tenido confianza con esa persona te podrá decir "Si me das este dinero te haré no se que..." y ahí es cuando caes en la trampa.
+
+
+# EJemplo 
+
+<img width="600" height="750" alt="ChatGPT Image 16 ene 2026, 10_29_11" src="https://github.com/user-attachments/assets/cf213820-0d84-4857-a69c-0a8686d25d72" />
 
 # Noticias sobre la estafa
 
