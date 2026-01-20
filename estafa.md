@@ -4,7 +4,7 @@
 
 Snapchat generalmente, es una **aplicación** o más bien una **red social**. Snapchat al igual que casi todas las aplicaciones tiene una serie de suscripciones para un **plan mejor** que desde mi punto de vista lo veo innecesario pudiendo tener la versión normal.
 
-En esta app te puede entrar gente desconocida también o enviar una **solicitud de amistad**. De aquí es donde salen estos estafadores.
+En esta app te puede entrar gente desconocida también o enviar una **solicitud de amistad**. De aquí es donde salen estos estafadores. Hacen esto porque de normal, en snapchat te envían una solicitud y por eso usan esta técnica. 
 
  <img width="300" height="400" alt="ChatGPT Image 14 ene 2026, 11_52_50" src="https://github.com/user-attachments/assets/abd1222d-01e7-44b2-8e9c-fbcdc3284458" />
 
