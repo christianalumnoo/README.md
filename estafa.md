@@ -17,7 +17,7 @@ Los estafadores lo que hacen es **crearse cuentas falsas** y luego proceden a ha
 
 # ¿Qué es lo que puede pasar?
 
-Después de haber clicado estos enlaces o códigos QR, los estafadores **consiguen información personal o incluso el número de tarjeta** de los usuarios para **robarles dinero**. Después de esto, el usuario tendria que denunciar al estafador y tambie sería una dificil operación, ya que, en estos casos no es tan fácil recuperar lo perdido.
+Después de haber clicado estos enlaces o códigos QR, los estafadores **consiguen información personal o incluso el número de tarjeta** de los usuarios para **robarles dinero**. Después de esto, el usuario tendria que denunciar al estafador y tambie sería una dificil operación, ya que, en estos casos no es tan fácil recuperar lo perdido. Con suerte podrás recuperar el dinero pero tendria que pasar poco tiempo.
 
 <img width="300" height="400" alt="ChatGPT Image 15 ene 2026, 12_32_46" src="https://github.com/user-attachments/assets/a9e4afd7-f8a6-4d49-84a5-6d2329898665" />
 
